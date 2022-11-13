@@ -70,20 +70,7 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Discord",
-                href: "https://discord.com/invite/reactiflux",
-              },
-            ],
-          },
-        ],
-      },
+
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
