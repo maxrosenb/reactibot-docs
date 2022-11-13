@@ -1,0 +1,8 @@
+{
+    "label": "React Fundamentals",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "Learn some of the fundamentals and common patterns in React.",
+    }
+}
