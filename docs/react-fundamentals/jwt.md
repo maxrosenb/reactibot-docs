@@ -1,3 +1,6 @@
+---
+sidebar_position: 9
+---
 # JWT and its Problems
 Most of the time, JWTs aren't the best approach for working with backend authentication, despite the multitude of tutorials that use JWT. Session have been used for decades, with a lot of back end frameworks supporting them out of the box.
 
