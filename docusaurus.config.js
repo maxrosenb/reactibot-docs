@@ -49,11 +49,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      colorMode: {
-        defaultMode: "dark",
-        disableSwitch: false,
-        respectPrefersColorScheme: false,
-      },
       navbar: {
         title: "Reactibot Docs",
         logo: {
@@ -74,6 +69,11 @@ const config = {
             position: "right",
           },
         ],
+      },
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
       },
 
       prism: {
