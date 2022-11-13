@@ -64,7 +64,7 @@ const config = {
           },
 
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/maxrosenb/reactibot-docs",
             label: "GitHub",
             position: "right",
           },
